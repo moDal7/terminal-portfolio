@@ -13,7 +13,7 @@ let count = 1;
 let historyPos = 1;
 
 function Homepage() {
-  const [currentTheme, setTheme] = useState<string>(themes[0]);
+  const [currentTheme, setTheme] = useState<string>(themes[2]);
   const [history, setHistory] = useState([
     {
       command: "help",

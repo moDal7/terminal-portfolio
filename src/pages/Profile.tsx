@@ -61,7 +61,7 @@ function Profile() {
     });
 
   const [currentTheme, setTheme]: [string, Dispatch<SetStateAction<string>>] =
-    useState<string>(themes[0]);
+    useState<string>(themes[2]);
 
   useEffect(() => {
     setUsername(username!);
