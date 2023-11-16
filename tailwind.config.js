@@ -23,7 +23,7 @@ export default {
       },
       arch: {
         bgCol: "rgb(51,51,51)",
-        shebang: "rgb(29, 78, 216, 1)",
+        shebang: "rgb(59, 108, 246, 1)",
         symbol: "rgb(13, 238, 22, 1)",
         command: "rgb(255,255,255)",
       },

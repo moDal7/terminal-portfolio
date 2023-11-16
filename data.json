@@ -25,25 +25,25 @@
     {
       "label": "about",
       "about": "To know about me",
-      "value": "Hey there! I'm John Doe, a senior software engineer at Random Pvt. Ltd. in America  with a love for crafting digital solutions."
+      "value": "Hello there! I'm Marco D'Almo, a Computer Engineering Student at Politecnico di Torino. <br /> Currently living in Brussels, Belgium, and looking for the next challenging opportunity."
     },
     {
       "label": "skills",
       "about": "To know about my skills",
-      "value": "I'm a versatile full-stack developer, adept at turning ideas into robust web applications. <br /> <br /> Proficient in MERN stack, Redux, React-Redux, Tailwind CSS, SQL, RESTful APIs and many more."
+      "value": "I'm specializing in Data Science & AI, but I have knowledge in Cloud Technologies, Web Development and Information Systems Security. <br />Proficient in Python and Machine and Deep Learning Frameworks with knowledge of Javascript, Rust, Bash scripting."
     },
     {
       "label": "experience",
       "about": "To know about my experience",
-      "value": "I have more than 10 years of experience.",
+      "value": "I have more than 3 years of experience in the Visual Effects Industry.",
       "data": [
         {
-          "label": "Random Pvt Ltd",
-          "value": "Senior software engineer <br />  Year:  2015-present"
+          "label": "MPC Film & Episodic",
+          "value": "Digital Compositor <br />  Year:  2022-present"
         },
         {
-          "label": "Example Pvt Ltd",
-          "value": "Associate Software engineer <br />  Year:  2010-2015"
+          "label": "Umedia",
+          "value": "Digital Compositor <br />  Year:  2020-2022"
         }
       ]
     },
@@ -55,29 +55,29 @@
         {
           "label": "E-commerce Platform",
           "value": "Designed and developed a dynamic e-commerce website, featuring seamless payment processing and an extensive product catalog.",
-"url": "https://www.google.com"
+          "url": "https://www.polito.it/"
         },
         {
           "label": "Inventory Management System",
           "value": "Crafted an intuitive application for efficient tracking and management of inventory in warehouse environments.",
-"url": "https://www.google.com"
+          "url": "https://www.polito.it/"
         },
         {
           "label": "Social Media Analytics Dashboard",
           "value": "Built a powerful tool for analyzing social media data, providing insightful reports and visualizations.",
-"url": "https://www.google.com"
+          "url": "https://www.polito.it/"
         },
         {
           "label": "Real-time Chat Application",
           "value": "Developed a cutting-edge messaging app with real-time capabilities, supporting both group chats and a fun array of emojis.",
-"url": "https://www.google.com"
+          "url": "https://www.polito.it/"
         }
       ]
     },
     {
       "label": "contact",
       "about": "To get my contact details",
-      "value": "Feel free to reach out! You can contact me for any inquiries or collaborations. <br/> Email:  john.doe@example.com  <br/> GitHub:  https://github.com/johnDoe  <br/> LinkedIn:  https://www.linkedin.com/in/johndoe"
+      "value": "Feel free to reach out! You can contact me for any inquiries or collaborations. <br/> Email:  mrcdalmo@gmail.com  <br/> GitHub:  <a id='active' href='https://github.com/moDal7'>https://github.com/moDal7</a>  <br/> LinkedIn: <a id='active' href='https://www.linkedin.com/in/marco-dalmo/'>https://www.linkedin.com/in/marco-dalmo/</a>"
     }
   ]
 }
